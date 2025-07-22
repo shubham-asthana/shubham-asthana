@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @shubham-asthana
-- 👀 I’m a Senior Software Engineer with 9+ years of experience designing and scaling high-performance distributed systems using Java, Spring Boot, Python and AWS.
-- 📫 Please reach out to me at asthana.shubham3092@gmail.com or https://www.linkedin.com/in/shubham-asthana3092/
+- 💻 Senior Software Engineer II | Distributed and Scalable Systems | API Design
+- I'm a backend-focused software engineer with 9+ years of experience designing performant, scalable systems and web platforms for companies like Moveworks, ServiceNow, and Visa. I specialize in API-first architectures, CI/CD automation, and enterprise content management systems that deliver real business impact.
+- 🔧 Tech stack: Java, Spring Boot, Microservices, AWS, Docker, Kubernetes, GraphQL, Jenkins, GitHub Actions, and more.
+- 🌟 Always learning, always building. I thrive on solving complex problems, optimizing performance, and mentoring teams.
+- 🚀 Actively exploring new full-time opportunities, freelance projects, and open-source collaborations. Let’s connect and build something impactful.
+- 📬 Reach out via LinkedIn or email: asthana.shubham3092@gmail.com
 
 <!---
 shubham-asthana/shubham-asthana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

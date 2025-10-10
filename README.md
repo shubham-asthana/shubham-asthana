@@ -2,7 +2,7 @@
 
 ## 💻 Senior Software Engineer | Distributed & Scalable Systems | API Design
 
-I'm a backend-focused software engineer with 9+ years of experience designing high-performance, scalable systems and enterprise-grade web platforms for companies like **Moveworks**, **ServiceNow**, and **Visa**.
+I'm a backend-focused software engineer with 10+ years of experience designing high-performance, scalable systems and enterprise-grade web platforms for companies like **Moveworks**, **ServiceNow**, and **Visa**.
 
 I specialize in:
 - 🧱 Building API-first platforms
@@ -16,7 +16,7 @@ I specialize in:
 
 `Java` · `Spring Boot` · `Microservices` · `AWS` · `Docker` · `Kubernetes`  
 `GraphQL` · `REST APIs` · `Kafka` · `CI/CD` · `Jenkins` · `GitHub Actions`  
-`MySQL` · `NoSQL` · `ElasticSearch` · `Python` · `TypeScript` · `JMeter`
+`MySQL` · `NoSQL` · `ElasticSearch` · `Python` · `TypeScript` · `JMeter` . `Gatling`
 
 ---
 

@@ -15,8 +15,9 @@ I specialize in:
 ### 🛠️ Tech Stack
 
 `Java` · `Spring Boot` · `Microservices` · `AWS` · `Docker` · `Kubernetes`  
-`GraphQL` · `REST APIs` · `Kafka` · `CI/CD` · `Jenkins` · `GitHub Actions` . `DynamoDB` 
-`MySQL` · `NoSQL` · `ElasticSearch` · `Python` · `TypeScript` · `JMeter` . `Gatling`
+`GraphQL` · `REST APIs` · `Kafka` · `CI/CD` · `Jenkins` · `GitHub Actions` 
+`DynamoDB` . `MySQL` · `NoSQL` · `ElasticSearch` · `Python` · `TypeScript`
+`JMeter` . `Gatling`
 
 ---
 
